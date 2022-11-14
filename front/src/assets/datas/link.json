@@ -1,0 +1,32 @@
+{   "channels":[
+    {"id":"1",
+    "channel_name":"France 2",
+    "link":"https://www.france.tv/france-2/direct.html"
+    },
+{
+    "id":"2",
+    "channel_name":"France 3",
+    "link":"https://www.france.tv/france-3/direct.html"
+},
+{
+    "id":"3",
+    "channel_name":"France 4",
+    "link":"https://www.france.tv/france-4/direct.html"
+},
+{
+    "id":"4",
+    "channel_name":"France 5",
+    "link":"https://www.france.tv/france-5/direct.html"
+},
+{
+    "id":"5",
+    "channel_name":"L'equipe 21",
+    "link":"https://live.lequipe.fr/lachainelequipe/"
+},
+{
+    "id":"6",
+    "channel_name":"Eurosport 1",
+    "link":"https://www.eurosport.fr/endurance-auto/8-heures-de-bahrein/championnats-du-monde-8-heures-de-bahrein_brdeurosport-e15227146c0ch3/video.shtml"
+}
+]
+}
