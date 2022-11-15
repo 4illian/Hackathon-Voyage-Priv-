@@ -1,0 +1,11 @@
+.daynavbar {
+    display: flex;
+    width: auto;
+    height: 300px;
+    background-color: wheat;
+    margin: 50px;
+    justify-content: space-between;
+}
+#dayless {
+
+}
