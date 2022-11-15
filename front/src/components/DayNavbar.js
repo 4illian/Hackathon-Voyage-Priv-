@@ -6,18 +6,17 @@ const DayNavbar = () => {
     return (
         <div className="daynavbar">
             
-            <div id="Dayless">
-                <h3>Programme Journée 1</h3>
-                <p>26/07</p>
+            <div class="Dayless">
+                <h1>Hier</h1>
+            
             </div>
-            <div id="Today">
-                <h3>Programme Journée 2</h3>
-                <p>27/07</p>
-            </div>
-            <div id="Dayplus">
-                <h3>Programme Journée 3</h3>
-                <p>28/07</p>
+            <div class="Today">
+                <h1>Aujourd'hui</h1>
 
+            </div>
+            <div class="Dayplus">
+                <h1>Demain</h1>
+                
             </div>
 
         </div>
