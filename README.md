@@ -1,14 +1,13 @@
 # Hackathon Voyage Privé
 
 ## 📸 Screenshots
-<!-- Add your screenshots here -->
 ![Application Screenshot](front/public/screen-home.png)
 ![Application Screenshot](front/public/screen-score.png)
 ![Application Screenshot](front/public/screen-calendar.png)
 ![Application Screenshot](front/public/screen-details.png)
 
 ## 🚀 About the Project
-This project is a web application developed for the Voyage Privé Hackathon. The project was coded in 2 days on the "Voyage Privé" website in Aix-en-Provence.
+This project is a web application developed for the Voyage Privé Hackathon. The project was coded in 2 days at the company "Voyage Privé" in Aix-en-Provence.
 
 ## 🏗️ Architecture
 The application is built with the following technologies:
@@ -38,7 +37,7 @@ The application is built with the following technologies:
 ### Installation
 1. Clone the repository:
 ```bash
-git clone [REPO_URL]
+git clone git@github.com:4illian/Hackathon-Voyage-Prive.git
 cd Hackathon-Voyage-Prive
 ```
 
