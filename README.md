@@ -8,7 +8,7 @@
 ![Application Screenshot](front/public/screen-details.png)
 
 ## 🚀 About the Project
-This project is a web application developed for the Voyage Privé Hackathon. It allows users to [main feature description].
+This project is a web application developed for the Voyage Privé Hackathon. The project was coded in 2 days on the "Voyage Privé" website in Aix-en-Provence.
 
 ## 🏗️ Architecture
 The application is built with the following technologies:
@@ -39,7 +39,7 @@ The application is built with the following technologies:
 1. Clone the repository:
 ```bash
 git clone [REPO_URL]
-cd Hackathon-Voyage-Priv-
+cd Hackathon-Voyage-Prive-
 ```
 
 2. Install dependencies:
@@ -61,12 +61,3 @@ make build
 make start
 ```
 The application will be available at: http://localhost:80
-
-## 📝 Documentation
-[To be completed with application-specific documentation]
-
-## 🤝 Contributing
-[Instructions for contributing to the project]
-
-## 📄 License
-[License information] 
