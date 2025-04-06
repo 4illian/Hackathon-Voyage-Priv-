@@ -39,7 +39,7 @@ The application is built with the following technologies:
 1. Clone the repository:
 ```bash
 git clone [REPO_URL]
-cd Hackathon-Voyage-Prive-
+cd Hackathon-Voyage-Prive
 ```
 
 2. Install dependencies:
